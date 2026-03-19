@@ -1,0 +1,9 @@
+project: ctx
+goal: 跨 agent 项目上下文协议
+phase: shipping
+status: green
+stack:
+  - node
+blockers: []
+updated_at: "2026-03-19T09:51:19.328Z"
+updated_by: human

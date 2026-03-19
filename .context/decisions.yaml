@@ -1,0 +1,13 @@
+decisions:
+  - id: d001
+    what: 零依赖，内置 YAML parser
+    why: 任何环境都能跑，不依赖 npm install
+    made_by: human
+    date: 2026-03-19
+    status: active
+  - id: d002
+    what: YAML 不用 JSON
+    why: 人类可读可编辑，git diff 友好
+    made_by: human
+    date: 2026-03-19
+    status: active
