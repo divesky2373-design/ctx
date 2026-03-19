@@ -1,0 +1,11 @@
+{
+  "name": "ctx-protocol",
+  "version": "0.1.0",
+  "description": "跨 Agent 项目上下文协议 CLI",
+  "type": "module",
+  "bin": {
+    "ctx": "./bin/ctx.js"
+  },
+  "files": ["bin/", "lib/"],
+  "license": "MIT"
+}
